@@ -1,5 +1,5 @@
 module.exports = {
-  "DISCORD_TOKEN": "MTIxODMzOTU4MTc4Nzc3MDk1MA.G52bEG.7NfNth6kvTDQfA9udAGA2KNjK4jAfvnJizLA5o",
+  "DISCORD_TOKEN": "",
   "antispam": {
     "active": false,
     "messageCount": 3000000,
