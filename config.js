@@ -1,5 +1,5 @@
 module.exports = {
-  "DISCORD_TOKEN": "",
+  "DISCORD_TOKEN": "process.env.TOKEN",
   "antispam": {
     "active": false,
     "messageCount": 3000000,
